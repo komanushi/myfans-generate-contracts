@@ -1,1 +1,3 @@
 # myfans-generate-contracts
+
+MyFansの投稿時に必要になる契約書類2種類をCSVをもとにPDFとして生成するスクリプト
